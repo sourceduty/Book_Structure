@@ -11,6 +11,8 @@
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Dictionary Creator](https://github.com/sourceduty/Dictionary_Creator)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
