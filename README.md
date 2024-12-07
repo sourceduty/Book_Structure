@@ -13,6 +13,8 @@
 [Dictionary Creator](https://github.com/sourceduty/Dictionary_Creator)
 <br>
 [Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
