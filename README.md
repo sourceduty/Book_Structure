@@ -15,6 +15,10 @@
 [Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 <br>
 [Plain Text](https://github.com/sourceduty/Plain_Text)
+<br>
+[Text Emulator](https://github.com/sourceduty/Text_Emulator)
+<br>
+[Retrowriter](https://github.com/sourceduty/Retrowriter)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
